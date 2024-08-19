@@ -5,4 +5,4 @@ Pagina web per fitness, muscoli e esercizi. Ci sarà una prima pagina che mostre
 ## Indice
 
 1. [homepage.html](homepage.html)
-2. [petto.html](petto.html)
+2. [muscoli](petto.html)
