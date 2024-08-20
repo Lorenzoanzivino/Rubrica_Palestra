@@ -5,5 +5,5 @@ Pagina web per fitness, muscoli e esercizi. Ci sarà una prima pagina che mostre
 Ho introdotto gli argomenti di .css, "div /div" per lo style della mia pagina web su titolo e foto della homepage. creando un riquadro, inserendo i colori e gestendo l'allineamento.
 ## Indice
 
-1. [index.html](homepage.html)
-2. [petto.html](./muscoli/petto.html)
+1. [index.html](index.html)
+2. [petto.html](./muscoli/petto.html)ls
